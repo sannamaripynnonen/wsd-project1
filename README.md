@@ -1,6 +1,6 @@
 # Project 1: Shared shopping lists
 ## Overview
-This project is for the course [Web Software Development]() at Aalto University.
+This project is for the course [Web Software Development](https://csfoundations.cs.aalto.fi/web-software-development) at Aalto University.
  
 The goal was to build a web application that is used as a shared shopping list. The application uses a three-tier architecture (client, server, database) and a layered architecture with four layers(view, controllers, services and database).
 
